@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1792391304473,
+      "tag": "0000_sparkling_dagger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792392816704,
+      "tag": "0001_yellow_abomination",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1792561018318,
+      "tag": "0002_members_numeric_id",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1792994762723,
+      "tag": "0003_users_kakao_id",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1793075471751,
+      "tag": "0004_users_naver_id",
+      "breakpoints": true
+    }
+  ]
+}

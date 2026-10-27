@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.browser.searchEngine": "google",
+    "claudeCode.hideOnboarding": true,
+    "claudeCode.preferredLocation": "panel",
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+    "liveServer.settings.useBrowserPreview": false,
+    "debug.javascript.defaultRuntimeExecutable": "pwa-chrome",
+    "livePreview.customBrowser": "External Browser"
+}
